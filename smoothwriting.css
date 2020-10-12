@@ -696,21 +696,13 @@ a, .md-def-url {
 }
 
 
-
-
-
-.md-expand {
-  display: block !important;
-}
-
-
 [md-inline=url], [md-inline=link]>.md-content, [md-inline=image]>.md-meta {
   color: #666674;
 }
 
 
 
-.md-end-block.md-p.md-focus .md-expand.md-img-loaded>.md-meta {
+.md-end-block.md-p.md-focus .md-img-loaded>.md-meta {
   display: block !important;
   color: #666674;
   opacity: 1;
@@ -733,6 +725,10 @@ input, #file-library-search-input {
   outline: none !important;
   background-color: #FFFFFF;
   border: 1px solid #E1E9F6;
+}
+
+.ty-sidebar-search-panel {
+  border: 0;
 }
 
 .megamenu-menu-header-title-menu,.megamenu-menu-header #megamenu-menu-header-title {
