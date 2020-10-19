@@ -10,6 +10,9 @@ Put  [smoothwriting.css](https://github.com/nightwind93/SmoothWriting/blob/main/
 
 Only test theme on Windows, Mac OS and Linux users shloud use it without problem, but there is no exact style for the systems. Welcome to feedback. 
 
+[Download](https://github.com/xincreate/typora-theme-smoothwriting/releases)
+
+
 # 畅写
 
 **中文**
@@ -21,5 +24,4 @@ Only test theme on Windows, Mac OS and Linux users shloud use it without problem
 目前只在Windows环境测试，Mac和Linux的系统上，应该可以使用，只是没有针对性的样式设计。欢迎反馈。
 
 
-
-
+[下载](https://github.com/xincreate/typora-theme-smoothwriting/releases)
