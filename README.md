@@ -21,7 +21,7 @@ Only test theme on Windows, macOS and Linux users should use it with out problem
 
 把 [smoothwriting.css](https://github.com/nightwind93/SmoothWriting/blob/main/smoothwriting.css) 文件与 [smoothwriting](https://github.com/nightwind93/SmoothWriting/tree/main/smoothwriting) 文件夹一并放入Typora的"Themes"文件夹中，重启程序后，选择主题并使用即可。
 
-目前只在Windows环境测试，Mac和Linux的系统上，应该可以使用，只是没有针对性的样式设计。欢迎反馈。
+目前只在Windows环境测试，Mac和Linux系统上，应该可以使用，只是没有针对性的样式设计。欢迎反馈。
 
 
 [下载](https://github.com/xincreate/typora-theme-smoothwriting/releases)
